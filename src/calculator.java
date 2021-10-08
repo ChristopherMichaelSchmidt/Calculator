@@ -1,7 +1,8 @@
 public class calculator {
 
     public static void main(String[] args) {
-int a= 1;
+
+            int a= 1;
         System.out.println(a);
 
         double b= 1.1;
@@ -18,7 +19,8 @@ int a= 1;
         System.out.println(d);
 
 
-
+int g= 2 +4;
+            System.out.println(g);
 
 
 
